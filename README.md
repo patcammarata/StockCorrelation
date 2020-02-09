@@ -1,1 +1,1 @@
-# stock-correlation
+# StockCorrelation
